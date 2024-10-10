@@ -1,0 +1,32 @@
+.item {
+    width: 95px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.avatar {
+    width: 70px;
+    margin-top: 10px;
+}
+
+.info {
+    margin-top: 25px;
+}
+
+.name {
+    color: black;
+    margin: 0;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.onlineText {
+    color: green;
+    font-weight: 500;
+   
+}
+
+.offlineText {
+    color: red;
+    font-weight: 500;
+}
